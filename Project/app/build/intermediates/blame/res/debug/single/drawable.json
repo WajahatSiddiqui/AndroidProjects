@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/green_dot.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/green_dot.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/crop_icon.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/crop_icon.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/green_dot_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/green_dot_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/all_photos_icon.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/all_photos_icon.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/all_photos_icon_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/all_photos_icon_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_selected_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_selected_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_left_icon_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_left_icon_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_left_icon_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_left_icon_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/photo_option_icon.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/photo_option_icon.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/green_dot_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/green_dot_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_right_icon_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_right_icon_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_left_icon.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_left_icon.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/yellow_dot_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/yellow_dot_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/textview_border.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/textview_border.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_right_icon_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_right_icon_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_selected_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_selected_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_selector.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_selector.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/yellow_dot_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/yellow_dot_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/photo_option_icon_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/photo_option_icon_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/crop_icon_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/crop_icon_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/prev_next_border.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/prev_next_border.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/photo_option_icon_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/photo_option_icon_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/yellow_dot.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/yellow_dot.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/all_photos_icon_3x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/all_photos_icon_3x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/bottom_bar_rotate_left_selector.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/bottom_bar_rotate_left_selector.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/rotate_right_icon.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/rotate_right_icon.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/bottom_bar_options_selector.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/bottom_bar_options_selector.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/all_text_background.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/all_text_background.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/bottom_bar_crop_selector.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/bottom_bar_crop_selector.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/crop_icon_2x.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/crop_icon_2x.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/radio_selected.png",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/radio_selected.png"
+    },
+    {
+        "merged": "/home/wajahat/Projects/MyAndroidApplications/Project/app/build/intermediates/res/merged/debug/drawable/bottom_bar_rotate_right_selector.xml",
+        "source": "/home/wajahat/Projects/MyAndroidApplications/Project/app/src/main/res/drawable/bottom_bar_rotate_right_selector.xml"
+    }
+]

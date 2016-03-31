@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="10dp"
+    android:paddingTop="10dp">
+
+    <RelativeLayout
+        android:id="@+id/list_view_radio_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <RadioButton
+            android:id="@+id/list_item_radio"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:layout_margin="@dimen/activity_horizontal_margin"
+            android:checked="false"
+            android:focusable="false"
+            android:button="@drawable/radio_selector"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/list_item_linear_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_toRightOf="@+id/list_view_radio_layout"
+        android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/text_view_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Title"
+        android:textColor="@color/text_view_title"
+        android:ellipsize="end"
+        android:layout_gravity="start"
+        android:textSize="@dimen/text_view_title_size"/>
+
+    <TextView
+        android:id="@+id/text_view_count"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text = "count"
+        android:textColor="@color/text_view_count"
+        android:layout_gravity="start"
+        android:textSize="@dimen/text_view_count_size"/>
+    </LinearLayout>
+</RelativeLayout>
